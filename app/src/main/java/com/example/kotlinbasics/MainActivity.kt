@@ -45,7 +45,7 @@ fun GreetingScreen(name: String, age: Int) {
                 color = Color.Black,
                 fontSize = 22.sp,
                 fontWeight = FontWeight.Bold,
-                modifier = Modifier.padding(16.dp).background(color = Color.Green),
+                modifier = Modifier.padding(16.dp).background(color = Color.Gray),
 
             )
         }
